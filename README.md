@@ -9,6 +9,6 @@ Spring 2022
 Authors: 
 
 Alexander Ithakis Tsoskounoglou
-...
+Alexandra van der Jagt
 
 All rights reserved
