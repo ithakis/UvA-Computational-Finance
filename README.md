@@ -10,5 +10,6 @@ Authors:
 
 Alexander Ithakis Tsoskounoglou
 Alexandra van der Jagt
+Liza Roelofsen
 
 All rights reserved
